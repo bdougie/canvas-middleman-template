@@ -1,6 +1,7 @@
 # Canvas Middleman Template
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/canvasnyc/canvas-middleman-template)
 
 This is the template for building Middleman static sites.
 
